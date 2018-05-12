@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '25533'
     url: http://www.gutenberg.org/2009/agents/25533
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22773#Reis-door-Nieuw-Grenada-en-VenezuelaDe-Aarde-en-haar-Volken-1887
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2007-09-26'
 gutenberg_type: Text
